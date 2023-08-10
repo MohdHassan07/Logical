@@ -3,7 +3,7 @@ package Logic;
 import java.util.Scanner;
 
 public class Calculator {
-	
+	//Hello
 public static void main(String[] args) {
 	while(true) {Scanner sc =new Scanner(System.in);
 	System.out.println("Enter two number ");
